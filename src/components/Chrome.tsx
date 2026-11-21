@@ -300,6 +300,17 @@ function Footer() {
             <p>© {new Date().getFullYear()} Island Vacation Taxi &amp; Tours · Owned &amp; operated by Annie.</p>
             <p>Design concept demo — availability, fares and bookings shown here are illustrative, not official business data.</p>
           </div>
+          <p className="mt-4 text-[0.8125rem] text-cream/45">
+            Designed and developed by{" "}
+            <a
+              href="https://infycrestsolutions.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="transition-colors hover:text-sun"
+            >
+              Infycrest Solutions
+            </a>
+          </p>
         </div>
       </div>
     </footer>
